@@ -61,5 +61,7 @@ In this activity, you'll create a new React-based Google Books Search app. This 
 * Deploy your application to Heroku once complete. **You must use Create React App** and current versions of React and React-Router-Dom for this assignment.
 
 
-![ClickUI]()
+![ClickUI](https://github.com/alxcur/google-book-search/blob/master/Google-Book-Search_SAVED.png)
+
+![ClickUI](https://github.com/alxcur/google-book-search/blob/master/Google-Book-Search_SEARCH.png)
 
