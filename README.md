@@ -4,10 +4,6 @@
 
 In this activity, you'll create a new React-based Google Books Search app. This assignment requires you to create React components, work with helper/util functions, and utilize React lifecycle methods to query and display books based on user searches. You'll also use Node, Express and MongoDB so that users can save books to review or purchase later.
 
-### Submission on BCS
-
-* **Please submit both the deployed Heroku link to your homework AND the link to the Github Repository!**
-
 ### Instructions
 
 * This application requires at minimum 2 pages, check out the following mockup images for each page:
@@ -63,3 +59,7 @@ In this activity, you'll create a new React-based Google Books Search app. This 
 * `*` (get) - Will load your single HTML page in `client/build/index.html`. Make sure you have this _after_ all other routes are defined.
 
 * Deploy your application to Heroku once complete. **You must use Create React App** and current versions of React and React-Router-Dom for this assignment.
+
+
+![ClickUI]()
+
